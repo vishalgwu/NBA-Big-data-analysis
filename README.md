@@ -1,5 +1,5 @@
 # NFL Big Data Bowl 2025 kaggle competition 
-![logo](https://github.com/vishalgwu/NFL-Big-Data-Bowl-2025/blob/main/7-1-20_nfl_logo_jpg.jpeg)
+![logo](https://github.com/vishalgwu/NBA-Big-data-analysis/blob/main/NBA.jpeg)
 Advance EDA with the help of python
 ## Objective-
 The goal of this project is to exploit the NFL Next Gen Stats player tracking data with respect to presnap tendencies versus postsnap outcome in an exploratory and then confirmatory manner. This paper hopes to be useful for team management, playing strategy, and coaching applications via a complete exploratory data analysis and an expert use of modern statistical methods. In particular:
