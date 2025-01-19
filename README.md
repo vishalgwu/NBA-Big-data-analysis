@@ -13,4 +13,5 @@ Highlight the top 75 players and their value to their teams.
 ## Strategic Insights:
 Using pre-snap data, derive key predictions related to offense and defense plays to help game-day decisions. The project focuses on developing new, practical, and actionable metrics that would give further insight into player tendencies and team strategy.
 
-## Dataset link: https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/overview
+## Dataset link:
+https://www.kaggle.com/datasets/wyattowalsh/basketball
